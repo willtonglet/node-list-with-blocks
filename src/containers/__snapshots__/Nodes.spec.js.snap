@@ -1,0 +1,251 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Nodes /> should match snapshot 1`] = `
+<div
+  className="MuiBox-root MuiBox-root-1"
+>
+  <h1
+    className="MuiTypography-root MuiTypography-h4"
+  >
+    <strong
+      style={
+        Object {
+          "color": "#000",
+        }
+      }
+    >
+      Nodes
+    </strong>
+  </h1>
+  <div
+    className="MuiPaper-root MuiAccordion-root makeStyles-root-2 MuiAccordion-rounded MuiPaper-elevation3 MuiPaper-rounded"
+  >
+    <div
+      aria-disabled={false}
+      aria-expanded={false}
+      className="MuiButtonBase-root MuiAccordionSummary-root makeStyles-summary-3"
+      onBlur={[Function]}
+      onClick={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      role="button"
+      tabIndex={0}
+    >
+      <div
+        className="MuiAccordionSummary-content makeStyles-content-6"
+      >
+        <div
+          className="MuiBox-root MuiBox-root-14 makeStyles-summaryContent-4"
+        >
+          <div
+            className="MuiBox-root MuiBox-root-15"
+          >
+            <h5
+              className="MuiTypography-root makeStyles-heading-8 MuiTypography-h5"
+            >
+              Node 1
+            </h5>
+            <h6
+              className="MuiTypography-root makeStyles-secondaryHeading-9 MuiTypography-subtitle1"
+            >
+              https://thawing-springs-53971.herokuapp.com
+            </h6>
+          </div>
+          <div
+            className="MuiBox-root MuiBox-root-20"
+          >
+            <span
+              className="makeStyles-dot-16 makeStyles-dot-18"
+            />
+            <span
+              className="makeStyles-text-17 makeStyles-text-19"
+            >
+              OFFLINE
+            </span>
+          </div>
+        </div>
+      </div>
+      <div
+        aria-disabled={false}
+        aria-hidden={true}
+        className="MuiButtonBase-root MuiIconButton-root MuiAccordionSummary-expandIcon makeStyles-icon-5 MuiIconButton-edgeEnd"
+        onBlur={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        role={null}
+        tabIndex={null}
+      >
+        <span
+          className="MuiIconButton-label"
+        >
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"
+            />
+          </svg>
+        </span>
+      </div>
+    </div>
+    <div
+      className="MuiCollapse-container MuiCollapse-hidden"
+      style={
+        Object {
+          "minHeight": "0px",
+        }
+      }
+    >
+      <div
+        className="MuiCollapse-wrapper"
+      >
+        <div
+          className="MuiCollapse-wrapperInner"
+        >
+          <div
+            role="region"
+          >
+            <div
+              className="MuiAccordionDetails-root makeStyles-accordionContent-10"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="MuiPaper-root MuiAccordion-root makeStyles-root-2 MuiAccordion-rounded MuiPaper-elevation3 MuiPaper-rounded"
+  >
+    <div
+      aria-disabled={false}
+      aria-expanded={false}
+      className="MuiButtonBase-root MuiAccordionSummary-root makeStyles-summary-3"
+      onBlur={[Function]}
+      onClick={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      role="button"
+      tabIndex={0}
+    >
+      <div
+        className="MuiAccordionSummary-content makeStyles-content-6"
+      >
+        <div
+          className="MuiBox-root MuiBox-root-25 makeStyles-summaryContent-4"
+        >
+          <div
+            className="MuiBox-root MuiBox-root-26"
+          >
+            <h5
+              className="MuiTypography-root makeStyles-heading-8 MuiTypography-h5"
+            >
+              Node 2
+            </h5>
+            <h6
+              className="MuiTypography-root makeStyles-secondaryHeading-9 MuiTypography-subtitle1"
+            >
+              https://secret-lowlands-62331.herokuapp.com
+            </h6>
+          </div>
+          <div
+            className="MuiBox-root MuiBox-root-29"
+          >
+            <span
+              className="makeStyles-dot-16 makeStyles-dot-27"
+            />
+            <span
+              className="makeStyles-text-17 makeStyles-text-28"
+            >
+              OFFLINE
+            </span>
+          </div>
+        </div>
+      </div>
+      <div
+        aria-disabled={false}
+        aria-hidden={true}
+        className="MuiButtonBase-root MuiIconButton-root MuiAccordionSummary-expandIcon makeStyles-icon-5 MuiIconButton-edgeEnd"
+        onBlur={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        role={null}
+        tabIndex={null}
+      >
+        <span
+          className="MuiIconButton-label"
+        >
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"
+            />
+          </svg>
+        </span>
+      </div>
+    </div>
+    <div
+      className="MuiCollapse-container MuiCollapse-hidden"
+      style={
+        Object {
+          "minHeight": "0px",
+        }
+      }
+    >
+      <div
+        className="MuiCollapse-wrapper"
+      >
+        <div
+          className="MuiCollapse-wrapperInner"
+        >
+          <div
+            role="region"
+          >
+            <div
+              className="MuiAccordionDetails-root makeStyles-accordionContent-10"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
