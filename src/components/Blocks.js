@@ -12,7 +12,7 @@ function Blocks({ blocks }) {
   const classes = useStyles();
 
   const renderBlocks = blocks.list.map((block) => (
-    <Box className={classes.accordionContentBox}>
+    <Box key={block.attributes.index} className={classes.accordionContentBox}>
       <Typography className={classes.accordionContentID}>
         {("000" + block.attributes.index).substr(-3)}
       </Typography>
